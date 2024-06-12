@@ -1,0 +1,14 @@
+{
+  "name": "@types/yoomoneycheckoutwidget",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for YooKassa Widget - YooMoneyCheckoutWidget (ЮKassa)",
+  "main": "",
+  "types": "index.d.ts",
+  "author": {
+    "name": "Pavel Antoshenko",
+    "url": "https://dinamex.ru",
+    "githubUsername": "pavelety"
+  },
+  "license": "MIT",
+  "typeScriptVersion": "5.2"
+}
