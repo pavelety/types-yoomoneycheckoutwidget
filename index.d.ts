@@ -21,13 +21,17 @@ declare namespace YooWidget {
       }
     };
     /**
-     * используется только если неверный токен, если карта не прошла, то все ошибки внутри виджета,
+     * используется только если неверный или протухший токен, если карта не прошла, то все ошибки внутри виджета,
      * он сам работает с ними
      * */
     error_callback?: (error: YooMoneyErrorCallbackResult) => void;
   }
 
   interface YooMoneyErrorCallbackResult {
+    /**
+     * "internal_service_error" - токен протух или неверный
+     * "invalid_token" - токен невалиден
+     */
     error: string;
   }
 

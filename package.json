@@ -9,6 +9,10 @@
     "url": "https://dinamex.ru",
     "githubUsername": "pavelety"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavelety/types-yoomoneycheckoutwidget.git"
+  },
   "license": "MIT",
   "typeScriptVersion": "5.2"
 }
