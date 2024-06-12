@@ -1,5 +1,5 @@
 {
-  "name": "@types/yoomoneycheckoutwidget",
+  "name": "types-yoomoneycheckoutwidget",
   "version": "0.0.1",
   "description": "TypeScript definitions for YooKassa Widget - YooMoneyCheckoutWidget (ЮKassa)",
   "main": "",
@@ -9,6 +9,13 @@
     "url": "https://dinamex.ru",
     "githubUsername": "pavelety"
   },
+  "keywords": [
+    "react",
+    "yookassa",
+    "widget",
+    "YooMoneyCheckoutWidget",
+    "ЮKassa"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/pavelety/types-yoomoneycheckoutwidget.git"

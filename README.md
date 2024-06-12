@@ -1,6 +1,6 @@
 # Installation
 
-> `npm i --save-dev @types/yoomoneycheckoutwidget`
+> `npm i --save-dev types-yoomoneycheckoutwidget`
 
 # Summary
 
