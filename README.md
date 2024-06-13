@@ -1,6 +1,6 @@
 # Installation
 
-> `npm i --save-dev types-yoomoneycheckoutwidget`
+> `npm i -D types-yoomoneycheckoutwidget`
 
 # Summary
 
@@ -18,4 +18,4 @@ or separately in any other Typescript
 
 # Credits
 
-These definitions were written by [Pavel Antoshenko](https://dinamex.ru).
+These definitions were made by [Pavel Antoshenko](https://dinamex.ru).
